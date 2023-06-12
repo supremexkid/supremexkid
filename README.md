@@ -14,8 +14,13 @@ I am a passionate Junior QA Engineer who believes that web applications make a p
 <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="Cypress" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="Mocha" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />&nbsp;&nbsp;
- 
 </p>
+
+
+<div align="center">
+  <a href="https://github.com/supremexkid">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=supremexkid&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+</div>
 
 <!--
 **supremexkid/supremexkid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
