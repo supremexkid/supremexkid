@@ -1,8 +1,13 @@
 ### Hi there, I'm Anna 👋
 
-I am a passionate Junior QA Engineer who believes that web applications make a positive impact in people’s life⚡
+---
 
-## 🎯 &nbsp;&nbsp;Some technologies I use:
+I am a passionate Junior QA Engineer who believes that web applications make a positive impact in people’s life⚡<br>
+Highly interesting in jobs with creative teams which going to create something new.
+
+---
+
+### Languages and tools⚙️:
 
 <p align="center">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />&nbsp;&nbsp;
@@ -16,12 +21,14 @@ I am a passionate Junior QA Engineer who believes that web applications make a p
 <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />&nbsp;&nbsp;
 </p>
 
+---
 
 <div align="center">
   <a href="https://github.com/supremexkid">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=supremexkid&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
 </div>
 
+ ---
 <!--
 **supremexkid/supremexkid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,4 +43,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Highly interesting in jobs with creative teams which going to create something new.
+
