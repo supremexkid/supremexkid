@@ -24,10 +24,10 @@ Highly interesting in jobs with creative teams which going to create something n
 ### My Github Stats 📊
 <div align="center">
   <a href="https://github.com/supremexkid">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=supremexkid&theme=tokyonight">
+     <img height="198px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supremexkid&layout=donut&theme=nightowl">
  <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=supremexkid&theme=tokyonight", width="50%" height="200em"/> -->
   <a href="https://github.com/supremexkid">
-    <img height="200px" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=supremexkid&theme=tokyonight">
+    <img height="197px" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=supremexkid&theme=nightowl">
 </div>
 
  ---
