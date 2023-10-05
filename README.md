@@ -24,7 +24,7 @@ Highly interesting in jobs with creative teams which going to create something n
 ### My Github Stats 📊
 <div align="center">
   <a href="https://github.com/supremexkid">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=supremexkid&theme=tokyonight">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=supremexkid&theme=tokyonight">
  <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=supremexkid&theme=tokyonight", width="50%" height="200em"/> -->
   <a href="https://github.com/supremexkid">
     <img height="200px" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=supremexkid&theme=tokyonight">
