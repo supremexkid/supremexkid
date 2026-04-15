@@ -2,7 +2,7 @@
 
 ---
 
-I am a passionate Junior QA Engineer who believes that web applications make a positive impact in people’s life⚡<br>
+I am a passionate QA Engineer who believes that web applications make a positive impact in people’s life⚡<br>
 Highly interesting in jobs with creative teams which going to create something new.
 
 ---
